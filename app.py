@@ -178,7 +178,7 @@ with tab1:
     # Imagem com ajuste de largura
     st.image("imagens/tipos-de-analise-de-dados.jpg",
              caption="Exemplo de Tipos de Análise de Dados",
-             use_column_width=True)  # Ajuste o valor conforme necessidade ou adaptar a responsividade de tela
+             use_container_width=True)  # Ajuste o valor conforme necessidade ou adaptar a responsividade de tela
 
 # Tab de Análise Exploratória
 with tab2:
