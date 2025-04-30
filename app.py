@@ -171,7 +171,7 @@ with tab1:
     # Seção de agradecimento
     st.divider()
     st.markdown("""
-    *Agradeço à [Avanti](https://avanti.com.br) pela oportunidade e a todos os colegas que colaboraram neste projeto!*  
+    *Agradeço à [Avanti](https://atlanticoavanti.com.br) pela oportunidade e a todos os colegas que colaboraram neste projeto!*  
     *Desenvolvido por Alexsandra Tavares* 🚀
     """)
     
