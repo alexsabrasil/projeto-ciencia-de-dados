@@ -57,9 +57,12 @@ Durante o desenvolvimento deste projeto, aprendi diversas técnicas importantes 
 
 ---
 
-🌐 Link da Aplicação Web
-Experimente o modelo de predição de diabetes
-Aqui você pode inserir dados clínicos e verificar a probabilidade de desenvolvimento de diabetes
+## 🌐 Link da Aplicação Web
+
+👉 [Acesse o aplicativo no Streamlit](https://alexsandratss.streamlit.app/)
+
+Experimente o modelo de predição de diabetes!  
+Aqui você pode inserir dados clínicos e verificar a probabilidade de desenvolvimento de diabetes.
 
 ---
 ## 🚀 Como Executar o Projeto Localmente
