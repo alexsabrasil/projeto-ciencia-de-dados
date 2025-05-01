@@ -12,3 +12,4 @@ statsmodels==0.14.1
 tzdata==2024.1
 matplotlib==3.8.4
 xgboost==2.0.3
+scikit-learn==1.4.2
