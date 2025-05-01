@@ -15,6 +15,9 @@ O projeto envolve a exploração dos dados, pré-processamento, treinamento do m
 - Matplotlib / Seaborn (para visualização de dados)
 - Pickle (para salvar o modelo treinado)
 - Streamlit (para criar a aplicação interativa)
+- XGBoost
+- Plotly
+- Statmodels
 
 ---
 
@@ -65,18 +68,42 @@ Experimente o modelo de predição de diabetes!
 Aqui você pode inserir dados clínicos e verificar a probabilidade de desenvolvimento de diabetes.
 
 ---
-## 🚀 Como Executar o Projeto Localmente
 
-1. Clone o repositório:
+## 🚀 Como Executar Localmente
+
 ```bash
+# 1. Clone o repositório
 git clone https://github.com/alexsabrasil/projeto-ciencia-de-dados.git
 
-# Navegue até o diretório do projeto:
+# 2. Acesse o diretório do projeto
 cd projeto-ciencia-de-dados
-# Crie e ative o ambiente virtual:
-python -m venv myenv
-source myenv/bin/activate  # no Windows use: myenv\Scripts\activate
-# Instale as dependências:
+
+# 3. Crie um ambiente virtual (opcional, mas recomendado)
+python -m venv venv
+source venv/bin/activate  # ou venv\Scripts\activate no Windows
+
+# 4. Instale as dependências
 pip install -r requirements.txt
-# Execute a aplicação:
-streamlit run app.py 
+
+# 5. Rode a aplicação
+streamlit run app.py
+
+
+--- 
+
+## 📚 Dataset Utilizado
+
+O dataset utilizado é de domínio público e contém atributos clínicos relacionados à saúde dos pacientes, como idade, IMC, glicose, entre outros.
+
+--- 
+
+🙏 Agradecimentos
+
+Agradeço à [Avanti](https://atlanticoavanti.com.br) pela oportunidade e a todos os colegas que colaboraram neste projeto!*  
+Desenvolvido por Alexsandra Tavares 🚀
+
+---
+
+📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
