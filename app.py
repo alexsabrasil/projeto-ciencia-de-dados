@@ -102,12 +102,12 @@ def gerar_download(fig):
 # Tab de Apresentação do Projeto
 with tab1:
     # Cabeçalho com emoji
-    st.header("🔎 Projeto de Previsão de Diabetes")
+    #st.header("🔎 Projeto de Previsão de Diabetes")
     
     # Introdução em container destacado
     with st.container(border=True):
         st.write("""
-        **Aplicativo educativo** desenvolvido para o Bootcamp de Ciência de Dados da Avanti, 
+        ** 🖥️  Aplicativo educativo** desenvolvido para o Bootcamp de Ciência de Dados da Avanti, 
         com objetivo de prever diabetes através de modelos preditivos.
         """)
     
