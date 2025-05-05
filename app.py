@@ -107,7 +107,7 @@ with tab1:
     # Introdução em container destacado
     with st.container(border=True):
         st.write("""
-        ** 🖥️  Aplicativo educativo** desenvolvido para o Bootcamp de Ciência de Dados da Avanti, 
+        🖥️ **Aplicativo educativo** desenvolvido para o Bootcamp de Ciência de Dados da Avanti, 
         com objetivo de prever diabetes através de modelos preditivos.
         """)
     
